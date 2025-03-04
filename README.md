@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I'm Ellie
 
 ### About Me  
-🔹 **Data Science | Full-Stack Development **  
+🔹 Data Science | Full-Stack Development 
 🔹 Postgraduate student aiming to become a **Full-Stack Developer**  
 🔹 Passionate about **optimizing big data solutions**, **building scalable cloud applications**, and **working with AI/ML**  
 🔹 Learning **Chinese** 🇨🇳  
