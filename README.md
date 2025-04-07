@@ -5,8 +5,63 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I'm Ellie
 
 ### About Me  
-🔹 Postgraduate student aiming to become a **Full-Stack Developer**  
+- Postgraduate student aiming to become a **Full-Stack Developer**  
 
-### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+### 🛠️ Experience
 
+1. Python Development
+
+- Flask and Flask-RestX for API development
+- SQLAlchemy for data migration and ORM
+- Data processing with NumPy, Pandas, PySpark
+- Machine learning implementations with TensorFlow, PyTorch
+
+2. Database Engineering
+
+- PostgreSQL, MySQL, MongoDB expertise
+- Database schema design
+- Custom PostgreSQL data types implementation
+
+
+3. Big Data & Distributed Systems
+
+- Hadoop ecosystem for distributed processing
+- Apache Spark and PySpark for large-scale data analysis
+- MapReduce-based algorithms for term weighting
+
+
+4. Software Engineering
+
+- RESTful API design and implementation
+- CI/CD pipeline management with Jenkins, GitLab
+- Docker containerization
+- Google Cloud services
+- Automated testing with Playwright
+- Git version control (GitHub, GitLab)
+
+
+5. Web Development
+
+- JavaScript with React and Next.js
+- Real-time applications with Socket.IO
+- Responsive UI design with Tailwind CSS
+- ShadCN components integration
+
+📌 Project Highlights
+- Real-Time Chat Application
+
+Built with Next.js, Node.js, Socket.IO, MongoDB
+Implemented real-time messaging capabilities
+Containerized with Docker for easy deployment
+
+- Big Data Processing System
+
+Utilized Hadoop and PySpark for distributed processing
+Implemented MapReduce algorithms for term weighting
+Applied optimization techniques to reduce computation time
+
+- Logo Language Interpreter (Rust)
+
+Developed using Rust's thread-safe primitives
+Created system for generating SVG files from Logo commands
+Implemented concurrent processing capabilities
