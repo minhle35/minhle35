@@ -2,7 +2,7 @@
 minhle35/minhle35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi, I'm Ellie
+# 👋 Hi there
 
 ### About Me  
 - Postgraduate student aiming to become a **Full-Stack Developer**  
@@ -34,6 +34,9 @@ You can click the Preview link to take a look at your changes.
 4. Web Development
 
 - JavaScript with React and Next.js, Next.js, Socket.IO
-- Tailwind CSS, ShadCN UI 
+- Tailwind CSS, ShadCN UI
+
+  Contact:
+  Email: minhlethaodata@gmail.com
 
 
