@@ -4,9 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi there
 
-### About Me  
-- Postgraduate student aiming to become a **Full-Stack Developer**  
-
 ### 🛠️ Tech Stack
 
 1. Python Development
