@@ -1,39 +1,37 @@
-<!---
-minhle35/minhle35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 👋 Hi there
+Minh Le
+Full-Stack Developer | Data Engineer | Machine Learning Engineer
+Passionate about building scalable web applications and data-driven solutions. I specialize in Python development, modern web technologies, and machine learning implementations.
+Technical Expertise
+Backend Development
 
-### 🛠️ Tech Stack
+Python: Flask, Flask-RestX, SQLAlchemy
+RESTful API design and implementation
+Database design: PostgreSQL, MySQL, MongoDB
+Custom PostgreSQL data types and optimization
 
-1. Python Development
+Data Engineering & ML
 
-- Flask, Flask-RestX 
-- SQLAlchemy for data migration and ORM
-- Data processing with NumPy, Pandas, PySpark
-- Machine learning: TensorFlow, PyTorch
+Data processing: NumPy, Pandas, PySpark
+Machine Learning: TensorFlow, PyTorch
+ETL pipelines and data migration strategies
 
-2. Database Engineering
+Frontend Development
 
-- PostgreSQL, MySQL, MongoDB
-- Custom PostgreSQL data types implementation
+JavaScript: React, Next.js
+Real-time applications with Socket.IO
+Modern CSS: Tailwind CSS, ShadCN UI
 
+DevOps & Tools
 
-3. Software Engineering
+Cloud platforms: Google Cloud Platform (GCP)
+Containerization: Docker
+Testing: Playwright automation
+Version control: Git, GitHub, GitLab
 
-- RESTful API 
-- Docker containerization
-- GCP
-- Automated testing with Playwright
-- Git version control (GitHub, GitLab)
+Featured Projects
+Add 2-3 of your best projects here with brief descriptions and tech stacks
+Connect With Me
+📧 Email: minhlethaodata@gmail.com
+🌐 Portfolio: lethaominh.com
 
-
-4. Web Development
-
-- JavaScript with React and Next.js, Next.js, Socket.IO
-- Tailwind CSS, ShadCN UI
-
-  Contact:
-  Email: minhlethaodata@gmail.com
-
-
+Open to collaboration and new opportunities.
